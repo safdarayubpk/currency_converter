@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 // Currency Converter in TypeScript
 // Importing inquirer library
 import inquirer from "inquirer";
